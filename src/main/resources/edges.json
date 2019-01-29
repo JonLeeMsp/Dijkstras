@@ -1,0 +1,140 @@
+{
+  "1": [
+    {
+      "targetNodeId": 2,
+      "cost": 2
+    },
+    {
+      "targetNodeId": 3,
+      "cost": 4
+    }
+  ],
+  "2": [
+    {
+      "targetNodeId": 3,
+      "cost": 1
+    },
+    {
+      "targetNodeId": 4,
+      "cost": 3
+    }
+  ],
+  "3": [
+    {
+      "targetNodeId": 4,
+      "cost": 5
+    },
+    {
+      "targetNodeId": 5,
+      "cost": 5
+    }
+  ],
+  "4": [
+    {
+      "targetNodeId": 5,
+      "cost": 7
+    },
+    {
+      "targetNodeId": 6,
+      "cost": 2
+    },
+    {
+      "targetNodeId": 7,
+      "cost": 3
+    },
+    {
+      "targetNodeId": "1",
+      "cost": 9
+    }
+  ],
+  "5": [
+    {
+      "targetNodeId": 6,
+      "cost": 2
+    },
+    {
+      "targetNodeId": 8,
+      "cost": 1
+    },
+    {
+      "targetNodeId": 9,
+      "cost": 3
+    }
+  ],
+  "6": [
+    {
+      "targetNodeId": 7,
+      "cost": 2
+    },
+    {
+      "targetNodeId": 9,
+      "cost": 1
+    },
+    {
+      "targetNodeId": "1",
+      "cost": 14
+    },
+    {
+      "targetNodeId": 8,
+      "cost": 2
+    }
+  ],
+  "7": [
+    {
+      "targetNodeId": 9,
+      "cost": 1
+    },
+    {
+      "targetNodeId": 10,
+      "cost": 43
+    },
+    {
+      "targetNodeId": 11,
+      "cost": 9
+    },
+    {
+      "targetNodeId": 9,
+      "cost": 2
+    }
+  ],
+  "8": [
+    {
+      "targetNodeId": 9,
+      "cost": 10
+    },
+    {
+      "targetNodeId": 10,
+      "cost": 4
+    },
+    {
+      "targetNodeId": 12,
+      "cost": 10
+    }
+  ],
+  "9": [
+    {
+      "targetNodeId": 10,
+      "cost": 1
+    }
+  ],
+  "10": [
+    {
+      "targetNodeId": 11,
+      "cost": 11
+    },
+    {
+      "targetNodeId": 12,
+      "cost": 1
+    }
+  ],
+  "11": [
+    {
+      "targetNodeId": 12,
+      "cost": 11
+    },
+    {
+      "targetNodeId": 8,
+      "cost": 12
+    }
+  ]
+}

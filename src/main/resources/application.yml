@@ -1,0 +1,3 @@
+graph:
+    node-file-name: nodes.json
+    edges-file-name: edges.json
